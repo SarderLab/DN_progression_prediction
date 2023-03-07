@@ -15,8 +15,8 @@ labels = pd.read_csv('Glomeruli_combined_labels.csv',header=None).to_numpy()
 labels = labels[:,1]
 
 
-print(data.shape)
-print(val_data.shape)
+# print(data.shape)
+# print(val_data.shape)
 # exit()
 def build_net():
 
