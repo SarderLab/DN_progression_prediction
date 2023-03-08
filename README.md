@@ -1,4 +1,4 @@
-# Self-Supervised Prediction of ESKD Outcome
+# Self-Supervision for Semi-Supervised Prediction of ESKD Outcome
 This repository contains codes for training deep-learning networks for predicting binary outcome from various forms of input features
 - FCNN: For predicting disease outcome from patient-level features (i.e. Urinary Proteomics)
 - RNN: For predicting disease outcome from structure-level features within patients (i.e. Digital Image Features from glomeruli, tubules)
